@@ -1,0 +1,17 @@
+{
+  "name": "algorithms-in-typescript",
+  "version": "1.0.0",
+  "description": "data structure and algorithms in typescript",
+  "main": null,
+  "scripts": {
+    "build": "tsc",
+    "test": "echo test"
+  },
+  "keywords": [
+    "data",
+    "struct",
+    "algorithms"
+  ],
+  "author": "shen kang",
+  "license": "ISC"
+}
