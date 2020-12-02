@@ -1,4 +1,4 @@
-<div style="border: 3px solid rgb(49,120,198);padding:10px 0;font-size:25px;color:rgb(49,120,198);font-weight:bold;text-align:center;">算法与数据结构</div>
+<h1 align="center">算法与数据结构</h1>
 
 ## 简介
 
@@ -34,3 +34,6 @@
   - [leetcode](https://leetcode.com)
   - [leetcode CN](https://leetcode-cn.com/)
   - [code wars](https://www.codewars.com/)
+
+
+本仓库使用 [MIT](https://opensource.org/licenses/MIT) 许可证，您可以自由传播、修改其内容。
