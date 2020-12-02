@@ -7,14 +7,14 @@
 ## 数据结构
 
 - 树（Tree）
-  - [二叉树（Binary Tree）](src/data-structure/tree/binary-tree/README.md)
-  - [二叉搜索树（Binary Search Tree）](src/data-structure/tree/binary-search-tree/README.md)
+  - 二叉树（Binary Tree）
+  - 二叉搜索树（Binary Search Tree）
 
 ## 算法
 
 - 排序（sort）
   - [冒泡排序（bubble sorting）](src/algorithms/sort/bubble-sort/README.md)
-  - [插入排序（insertion sorting）](src/algorithms/sort/insertion-sort/README.md)
+  - 插入排序（insertion sorting）
 
 ## 预备知识
 
