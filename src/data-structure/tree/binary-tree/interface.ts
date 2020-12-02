@@ -1,6 +1,9 @@
-import { TraverseOrder, TreeNode } from '../base';
+import { TraverseOrder, TreeNode, TreeNodeNullable } from '../base';
+import BinaryTree from './index';
 
 type TraversalCallback<K, V> = (node: TreeNode<K, V>) => void;
+
+export type BinaryTreeNullable<K, V> = BinaryTree<K, V> | null | undefined;
 
 /**
  * Binary tree interface
@@ -26,7 +29,7 @@ export interface IBinaryTree<K, V> {
   /**
    * get a node of the root
    */
-  root(): TreeNode<K, V>;
+  root(): TreeNodeNullable<K, V>;
 
   /**
    * insert as a child of the right

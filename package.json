@@ -5,7 +5,7 @@
   "main": null,
   "scripts": {
     "build": "tsc",
-    "test": "echo test"
+    "test": "tsc | jest test"
   },
   "keywords": [
     "data",
@@ -13,5 +13,10 @@
     "algorithms"
   ],
   "author": "shen kang",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^26.0.16",
+    "jest": "^26.6.3",
+    "typescript": "^4.1.2"
+  }
 }
